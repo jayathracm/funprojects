@@ -1,2 +1,2 @@
 # funprojects
-Projects which I did in my free time
+Projects which I do in my free time
